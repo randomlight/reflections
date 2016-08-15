@@ -30,4 +30,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I am doing a project working with others. I want to branch out first than working on the master so that my work would not be affected when others change the master. When I am merging then I could check whether my work affects the recent changes of the master.
